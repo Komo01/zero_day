@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "zero_day" >> README.md
+This_file_is_mandatory_in_projects
